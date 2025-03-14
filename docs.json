@@ -11,14 +11,14 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "短剧Saas服务",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "立即开始",
             "pages": [
-              "introduction",
-              "quickstart",
-              "development"
+              "前言",
+              "快速入门",
+              "资费详情"
             ]
           },
           {
@@ -35,7 +35,7 @@
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "AI翻译",
         "groups": [
           {
             "group": "API Documentation",
