@@ -1,44 +1,37 @@
 ---
 title: "快速开始"
-description: "Start building awesome documentation in under 5 minutes"
+description: "快速创建短剧平台进行商业化"
 ---
 
-## Setup your development
+## 短剧管理
 
-Learn how to update your docs locally and deploy them to the public.
+5分钟快速搭建专属剧场
 
-### Edit and preview
+### 剧场名称
 
-<AccordionGroup>
-  <Accordion title="Clone your docs locally" icon="github">
-    During the onboarding process, we created a repository on your Github with
-    your docs content. You can find this repository on our
-    [dashboard](https://dashboard.mintlify.com). To clone the repository
-    locally, follow these
-    [instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
-    in your terminal.
-  </Accordion>
-  <Accordion title="Preview changes" icon="rectangle-terminal">
-    Previewing helps you make sure your changes look as intended. We built a
-    command line interface to render these changes locally.
+为剧场定义一个名称，建议使用对应地区语言或英语进行设置，这最终会映射到用户端显示做为平台LOGO
 
-    1. Install the
-       [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the
-       documentation changes locally with this command: `npm i -g mintlify`
-    2. Run the following command at the root of your documentation (where
-       `docs.json` is): `mintlify dev`
+![Theater Nam](/TheaterName)
 
-    <Note>
-      If you’re currently using the legacy `mint.json` configuration file, please update the Mintlify CLI:
+### 域名前缀
 
-      `npm i -g mintlify@latest`
-      And run the new upgrade command in your docs repository:
+设置专属域名核心在于平台拓展喝技术灵活性。确保其他用户在广告媒体出现争议时，专属域名可将负面影响限制在局部，保护您的剧场不受关联。
 
-      `mintlify upgrade`
-      You should now be using the new `docs.json` configuration file. Feel free to delete the `mint.json` file from your repository.
-    </Note>
-  </Accordion>
-</AccordionGroup>
+![Domainnam](/domainname)
+
+### 剧场地区
+
+> 为了用户加载体验每一个剧场都是独立一个地区进行数据存储
+
+![Are](/area)
+
+选择目标地区为剧集进行关联，更好的管理剧集、货币、资源包与用户
+
+### 代币价值
+
+设置金币价值围绕对应剧场地区进行货币的汇率计算
+
+![Coin](/coins)
 
 ### Deploy your changes
 
@@ -63,7 +56,7 @@ Learn how to update your docs locally and deploy them to the public.
 
 Add content directly in your files with MDX syntax and React components. You can use any of our components, or even build your own.
 
-<CardGroup cols={2}>
+<CardGroup cols="2">
   <Card title="Add Content With MDX" icon="file" href="/essentials/markdown">
     Add content to your docs with MDX syntax.
   </Card>
