@@ -24,7 +24,7 @@
             "group": "工作流程",
             "pages": [
               "workflow/Promote",
-              "shortplay"
+              "workflow/data"
             ]
           },
           {
