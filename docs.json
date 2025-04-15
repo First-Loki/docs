@@ -68,7 +68,7 @@
       "anchors": [
         {
           "anchor": "创建剧场",
-          "href": "https://mintlify.com/docs",
+          "href": "https://console.shortmotiontv.com/login?redirect=PlayletAdd",
           "icon": "slack"
         },
         {
