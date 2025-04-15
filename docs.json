@@ -37,8 +37,8 @@
           {
             "group": "数据归因",
             "pages": [
-              "pixel",
-              "accounts"
+              "binding/pixel",
+              "binding/accounts"
             ]
           }
         ]
