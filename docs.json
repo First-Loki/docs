@@ -17,18 +17,30 @@
             "group": "立即开始",
             "pages": [
               "introduction",
-              "management",
               "shortplay"
             ]
           },
           {
             "group": "工作流程",
             "pages": [
-              "introduction",
               "management",
               "shortplay"
             ]
-          }
+          },
+          {
+            "group": "推广链接",
+            "pages": [
+              "management",
+              "shortplay"
+            ]
+          },
+          {
+            "group": "数据归因",
+            "pages": [
+              "management",
+              "shortplay"
+            ]
+          },
         ]
       },
       {
