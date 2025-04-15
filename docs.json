@@ -17,8 +17,8 @@
             "group": "立即开始",
             "pages": [
               "introduction",
-              "quickstart",
-              "management"
+              "management",
+              "introduction"
             ]
           }
         ]
