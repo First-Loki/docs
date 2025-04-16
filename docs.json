@@ -47,18 +47,9 @@
         "tab": "AI翻译",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "AI 实验室",
             "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "comingsoon"
             ]
           }
         ]
